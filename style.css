@@ -1,0 +1,113 @@
+body {
+    background-color: #fce7dc;
+    background-position: center;
+    background-repeat: repeat-x;
+    font-family: "Roboto Condensed", sans-serif;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 75px auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .circle-photo {
+    width: 140px;
+    height: 140px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 3px solid #1b1342;
+    margin: 0 auto;
+  }
+  
+  .insta-profile {
+    display: inline;
+    margin: 0 auto;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  a {
+    color: #000;
+    padding-top: 10px;
+    text-decoration: none;
+  }
+  
+  #insta-link-bone {
+    color: #000;
+    background-color: #f49866;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 2px;
+    text-decoration: bold;
+  }
+  
+  #insta-link-bone:hover {
+    border: 3px solid #1b1342;
+  }
+  
+  #insta-link-rocket {
+    color: #000;
+    background-color: #0a695d;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 2px;
+    text-decoration: bold;
+  }
+  
+  #insta-link-rocket:hover {
+    border: 3px solid #1b1342;
+  }
+  
+  #insta-link-sonic {
+    color: #000;
+    background-color: #797a9e;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 2px;
+    text-decoration: bold;
+  }
+  
+  #insta-link-sonic:hover {
+    border: 3px solid #1b1342;
+  }
+  
+  #insta-link-sepia {
+    color: #000;
+    background-color: #72727e;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 2px;
+    text-decoration: bold;
+  }
+  
+  #insta-link-sepia:hover {
+    border: 3px solid #1b1342;
+  }
+  
+  #insta-link-caput {
+    color: #000;
+    background-color: #625f63;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 2px;
+    text-decoration: bold;
+  }
+  
+  #insta-link-caput:hover {
+    border: 3px solid #1b1342;
+  }
