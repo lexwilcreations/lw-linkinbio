@@ -36,7 +36,21 @@ body {
     padding-top: 10px;
     text-decoration: none;
   }
+  #insta-link-sepia {
+    color: #000;
+    background-color: #F5F38D;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 2px;
+    text-decoration: bold;
+  }
   
+  #insta-link-sepia:hover {
+    border: 3px solid #1b1342;
+  }
+
   #insta-link-bone {
     color: #000;
     background-color: #f49866;
@@ -79,21 +93,6 @@ body {
   }
   
   #insta-link-sonic:hover {
-    border: 3px solid #1b1342;
-  }
-  
-  #insta-link-sepia {
-    color: #000;
-    background-color: #F5F38D;
-    margin: 20px auto;
-    padding: 10px;
-    text-align: center;
-    transition: all 0.15s;
-    border-radius: 2px;
-    text-decoration: bold;
-  }
-  
-  #insta-link-sepia:hover {
     border: 3px solid #1b1342;
   }
   
